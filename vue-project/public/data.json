@@ -1,0 +1,77 @@
+[
+
+    {
+      "name": "Nathan MacKinnon",
+      "number": 29,
+      "image": "../assets/img/NathanMacKinnon.png",
+      "goals": 16,
+      "assists": 42,
+      "total": 58
+    },
+    {
+        "name": "Mikko Rantanen",
+        "number": 96,
+        "image": "YA",
+        "goals": 34,
+        "assists": 29,
+        "total": 63
+      },
+      {
+        "name": "Gabriel Landeskog",
+        "number": 92,
+        "image": "YA",
+        "goals": 0,
+        "assists": 0,
+        "total": 0
+      },
+
+
+      {
+        "name": "Cale Makar",
+        "number": 8,
+        "image": "YA",
+        "goals": 13,
+        "assists": 32,
+        "total": 45
+      },
+      {
+        "name": "Bowen Byram",
+        "number": 4,
+        "image": "YA",
+        "goals": 2,
+        "assists": 5,
+        "total": 7
+      },
+      {
+        "name": "Evan Rodrigues",
+        "number": 9,
+        "image": "YA",
+        "goals": 11,
+        "assists": 15,
+        "total": 26
+      },
+      {
+        "name": "Alex Newhook",
+        "number": 18,
+        "image": "YA",
+        "goals": 12,
+        "assists": 8,
+        "total": 20
+      },
+      {
+        "name": "Valeri Nichuschkin",
+        "number": 13,
+        "image": "YA",
+        "goals": 8,
+        "assists": 10,
+        "total": 18
+      },
+      {
+        "name": "Artturi Lehkonen",
+        "number": 62,
+        "image": "YA",
+        "goals": 15,
+        "assists": 19,
+        "total": 34
+      }
+    ]
