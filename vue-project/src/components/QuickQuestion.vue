@@ -2,7 +2,8 @@
 export default {
   data() {
     return {
-        msg: 'Yes'
+        msg: 'Yes',
+        text: ''
     }
   },
   methods: {
@@ -13,13 +14,29 @@ export default {
     onQuickQuestion() {
         this.msg = 'Great!'
     }
+  },
+  watch: {
+    text(){
+      console.log(this.text)
+    }
   }
 
 }</script>
 <template>
-    <h2>You doing OK today?</h2>
+  <div class="cont">
+    <h6>You doing OK today?</h6>
     <input class="btn btn-primary" type="button" :value="msg" @click="onQuickQuestion">
+    <input class="text" type="text" v-model="text" placeholder="Write and check your console log..."></div>
 
-    <p></p>
+
 </template>
-<style scoped></style>
+<style scoped>
+.cont {
+  text-align: center;
+  margin: 10vh;
+}
+.text {
+  width: 20%;
+  margin-left: 2vw;
+}
+</style>

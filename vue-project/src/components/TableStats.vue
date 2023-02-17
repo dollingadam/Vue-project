@@ -24,6 +24,7 @@ axios.get('data.json')
 <template>
 
   <h2>Stats for the 2022/23 season</h2>
+  <p>As of 17th of February</p>
     <caption>Skaters</caption>
     <table class="table table-striped table-hover table-stats table-stats-main" >
 
@@ -65,7 +66,7 @@ axios.get('data.json')
 </thead>
 <tbody>
   <tr>
-    <th scope="row">1</th>
+    <th scope="row">40</th>
     <td>Alexandar Georgiev</td>
     <td>36</td>
     <td>21</td>
@@ -112,4 +113,8 @@ h2{
 
 .space{
   height: 4em;
+}
+
+p {
+  text-align: center;
 }</style>

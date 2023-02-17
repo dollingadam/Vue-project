@@ -4,8 +4,9 @@
 export default {
   data() {
     return {
-     players: [],
-     imageSource: '/img/${player.image}'
+     players: []
+
+
     }
   },
   created(){
@@ -22,13 +23,16 @@ export default {
 <div class="grid-cards mt-3">
  <div class="container card mb-3" style="max-width: 540px;"  v-for="player in players">
   <div class="row g-0">
-    <div class="col-sm">
-      <img :src="imageSource" class="img-fluid rounded-start" alt="..." >
+    <div class="col-sm" >
+      <img :src="player.image" class="img-fluid rounded-start" alt="..." >
+
     </div>
     <div class="col-sm">
       <div class="card-body">
         <h5 class="card-title">{{player.name}}</h5>
         <p class="card-text">Number: {{player.number}}</p>
+        <p class="card-text">Date of birth: {{player.dob}}</p>
+        <p class="card-text">Contract: ${{player.contract}} millions</p>
 
       </div>
     </div>

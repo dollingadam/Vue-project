@@ -27,7 +27,7 @@ export default {
 
 .centered {
     position: absolute;
-    left: 50%;
+    left: 70%;
     top: 80%;
     color: white;
 }

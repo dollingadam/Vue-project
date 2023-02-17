@@ -3,75 +3,103 @@
     {
       "name": "Nathan MacKinnon",
       "number": 29,
-      "image": "../assets/img/NathanMacKinnon.png",
-      "goals": 16,
-      "assists": 42,
-      "total": 58
+      "image": "/img/NathanMacKinnon.png",
+      "goals": 18,
+      "assists": 44,
+      "total": 62,
+      "dob": "Sep 01, 1995",
+      "contract": 12.6
     },
     {
         "name": "Mikko Rantanen",
         "number": 96,
-        "image": "YA",
+        "image": "/img/MikkoRantanen.png",
         "goals": 34,
         "assists": 29,
-        "total": 63
+        "total": 63,
+        "dob": "Oct 29, 1996",
+        "contract": 9.25
       },
       {
         "name": "Gabriel Landeskog",
         "number": 92,
-        "image": "YA",
+        "image": "/img/GabrielLandeskog.png",
         "goals": 0,
         "assists": 0,
-        "total": 0
+        "total": 0,
+        "dob": "Nov 23, 1992",
+        "contract": 7
       },
 
 
       {
         "name": "Cale Makar",
         "number": 8,
-        "image": "YA",
+        "image": "/img/CaleMakar.png",
         "goals": 13,
         "assists": 32,
-        "total": 45
+        "total": 45,
+        "dob": "Oct 30, 1998",
+        "contract": 9
       },
       {
         "name": "Bowen Byram",
         "number": 4,
-        "image": "YA",
+        "image": "/img/BowenByram.png",
         "goals": 2,
-        "assists": 5,
-        "total": 7
+        "assists": 6,
+        "total": 8,
+        "dob": "Jun 13, 2001",
+        "contract": 0.9
       },
       {
         "name": "Evan Rodrigues",
         "number": 9,
-        "image": "YA",
+        "image": "/img/EvanRodrigues.png",
         "goals": 11,
         "assists": 15,
-        "total": 26
+        "total": 26,
+        "dob": "Jul 28, 1993",
+        "contract": 2
       },
       {
-        "name": "Alex Newhook",
-        "number": 18,
-        "image": "YA",
-        "goals": 12,
-        "assists": 8,
-        "total": 20
+        "name": "Samuel Girard",
+        "number": 49,
+        "image": "/img/SamuelGirard.png",
+        "goals": 4,
+        "assists": 15,
+        "total": 19,
+        "dob": "May 12, 1998",
+        "contract": 5
       },
       {
         "name": "Valeri Nichuschkin",
         "number": 13,
-        "image": "YA",
+        "image": "/img/ValNichuschkin.png",
         "goals": 8,
-        "assists": 10,
-        "total": 18
+        "assists": 11,
+        "total": 19,
+        "dob": "Mar 3, 1995",
+        "contract": 6.125
       },
       {
         "name": "Artturi Lehkonen",
         "number": 62,
-        "image": "YA",
-        "goals": 15,
-        "assists": 19,
-        "total": 34
+        "image": "/img/ArtturiLehkonen.png",
+        "goals": 16,
+        "assists": 20,
+        "total": 36,
+        "dob": "Jul 4, 1995",
+        "contract": 4.5
+      },
+      {
+        "name": "J.T Compher",
+        "number": 37,
+        "image": "/img/JTCompher.png",
+        "goals": 10,
+        "assists": 22,
+        "total": 32,
+        "dob": "Apr 8, 1995",
+        "contract": 3.500000
       }
     ]

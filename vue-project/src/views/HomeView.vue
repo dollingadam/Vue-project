@@ -17,8 +17,9 @@ import FanBase from '../components/FanBase.vue'
     <QuestionPlayoffs :current-value="2"/>
     <h5>Dallas Stars</h5>
     <QuestionPlayoffs :current-value="159"/>
-    <QuickQuestion/>
     <FanBase/>
+    <QuickQuestion/>
+
     </template>
     <style scoped>
 h5, h2{
